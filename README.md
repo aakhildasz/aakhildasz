@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div align="left">
+<div>
  
   <img href="https://instagram.com/aakhildasz" target="blank" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img href="https://instagram.com/aakhildasz" target="blank" src="https://img.shields.io/static/v1?message=twitter&logo=x&label=&color=222831&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
@@ -73,9 +73,6 @@
 ###
 
 
-
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakhildasz&show_icons=true&locale=en&layout=compact" alt="aakhildasz"  height="200" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakhildasz&show_icons=true&locale=en" alt="aakhildasz" height="200" /></p>
@@ -86,8 +83,5 @@
 ###
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
