@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MongoDb | ExpressJs | ReactJs | NodeJs**
 
-- 📫 How to reach me **akhilshivdas65@gmail.com**
+- 📫 How to reach me **akhilshiv65@gmail.com**
 
 - ⚡ Fun fact **A Great Showman!**
 
@@ -82,6 +82,6 @@
 
 ###
 
-
+<img src="https://raw.githubusercontent.com/aakhildasz/aakhildasz/output/snake.svg" alt="Snake animation" />
 
 ###
