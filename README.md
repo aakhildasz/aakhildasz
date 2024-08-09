@@ -2,16 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akhil Das</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakhildasz&label=Profile%20views&color=0e75b6&style=flat" alt="aakhildasz" /> </p>
-
-- 🌱 I’m currently learning **MERN STACK**
-
-- 💬 Ask me about **MongoDb | ExpressJs | ReactJs | NodeJs**
-
-
-
 ###
-
-
 
 ###
 
