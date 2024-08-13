@@ -43,11 +43,14 @@
 ###
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakhildasz&show_icons=true&locale=en&layout=compact&theme=dark" alt="aakhildasz" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aakhildasz&show_icons=true&locale=en&theme=dark" alt="aakhildasz" height="150" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakhildasz&theme=dark" alt="aakhildasz" width="635" />
+<div align="center" border="1" >
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakhildasz&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="aakhildasz" height="150" />
+        <img src="https://github-readme-stats.vercel.app/api?username=aakhildasz&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="aakhildasz" height="150" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakhildasz&theme=transparent&hide_border=true" alt="aakhildasz" width="635" />
+      </div>
 </div>
+
 
 
 
